@@ -8,14 +8,14 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: AI is working for me in my life
 
-●	Professional Software Engineer with a focus on Python, AI/NLP/Language Models, TypeScript, Restful API, and AWS among other technologies, dedicated to both backend (70%) and frontend (30%) development. 
-●	Possesses profound knowledge in AI/NLP technologies, experienced in working with Large Language Models (LLMs) such as OpenAI's GPT, Google's Gemini, and Anthropic's Claude 3, utilizing popular frameworks to build advanced AI platforms with Python and Node.js with Langchain Framework.
-●	Experienced in using several open source LLMs like Llama, and Falcon for model fine tuning with proprietary databases.
-●	Deep understanding of the Retrieval Augmented Generation (RAG) model and vector databases, including Pinecone and Chroma.
-●	Proficient in frontend development using React and Next.js with TypeScript, with a sharp eye for pixel-perfect design.
-●	Proven ability to design, build, and maintain efficient, scalable systems. Passionate about writing maintainable code, employing cutting-edge technologies, and working in a cooperative environment.
-●	Practiced in building the infrastructure for Continuous Integration/Continuous Deployment (CI/CD) with tools like Jenkins, Docker, and Kubernetes.
-●	Experienced with AWS tools including Lambda, DynamoDB, SQS, EC2, EKS, and Cloud Build, among others.
+-	Professional Software Engineer with a focus on Python, AI/NLP/Language Models, TypeScript, Restful API, and AWS among other technologies, dedicated to both backend (70%) and frontend (30%) development. 
+-	Possesses profound knowledge in AI/NLP technologies, experienced in working with Large Language Models (LLMs) such as OpenAI's GPT, Google's Gemini, and Anthropic's Claude 3, utilizing popular frameworks to build advanced AI platforms with Python and Node.js with Langchain Framework.
+-	Experienced in using several open source LLMs like Llama, and Falcon for model fine tuning with proprietary databases.
+-	Deep understanding of the Retrieval Augmented Generation (RAG) model and vector databases, including Pinecone and Chroma.
+-	Proficient in frontend development using React and Next.js with TypeScript, with a sharp eye for pixel-perfect design.
+-	Proven ability to design, build, and maintain efficient, scalable systems. Passionate about writing maintainable code, employing cutting-edge technologies, and working in a cooperative environment.
+-	Practiced in building the infrastructure for Continuous Integration/Continuous Deployment (CI/CD) with tools like Jenkins, Docker, and Kubernetes.
+-	Experienced with AWS tools including Lambda, DynamoDB, SQS, EC2, EKS, and Cloud Build, among others.
 
 ## SKILLS
 Expert in: Python, Typescript, Node.js, ExpressJS, Amazon Web Service, AWS Lambda, AWS EC2, Natural Language Processing, OpenAI, ChatGPT, GPT-3.5-turbo, GPT-4, RAG, Artificial Intelligence, AI audio generation, AI video generation, AI image generation, AI Agent
